@@ -1,0 +1,257 @@
+@charset "utf-8";
+@import url("../../../webfonts/SignikaNegative_VariableFont_wght/stylesheet.css");
+@import url("../../../webfonts/SignikaNegative_VariableFont_wght/stylesheet.css");
+@import url("../../../webfonts/SignikaNegative_VariableFont_wght/stylesheet.css");
+
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+}
+
+
+#contenedor {
+    width: 90%;
+    height: 1110px;
+    background-color: #F3EEC3;
+    margin-left: auto;
+    margin-right: auto;
+}
+#banner1   {
+    width: 100%;
+    height: 70px;
+    background-color: #AA4465;
+    float: left;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../imagenes/MiniTv.png);
+}
+#contenedor header {
+    width: 100%;
+    height: 100px;
+    background-color: #FFA69D;
+    float: left;
+}
+
+#contenedor header nav {
+    width: 100%;
+    height: 30px;
+    background-color: #C2FFFC;
+    float: left;
+}
+
+
+
+#contenedor section {
+    width: 100%;
+    height: 1000px;
+    background-color: #FFFFFF;
+    float: left;
+}
+header nav ul {
+    list-style-type: none;
+    text-decoration: none;
+}
+nav ul li {
+    width: 25%;
+    height: 60px;
+    float: left;
+    text-align: center;
+    line-height: 30px;
+}
+a:hover {
+    color: #0070FF;
+    background-color: #AFD7FF;
+    list-style-type: none;	
+}
+ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+    display: block;
+    list-style-type: none;
+}
+#vin1 {
+    background-color: #90E0EF;
+    width: 33%;
+    height: 27px;
+}
+#vin2 {
+    background-color: #48CAE4;
+    width: 33%;
+    height: 27px;
+}
+#vin3 {
+    background-color: #00b4d8;
+    width: 34%;
+    height: 27px;
+}
+
+#secconjunto1   {
+    width: 78%;
+    height: 135px;
+    float: left;
+    margin-bottom: 20px;
+}
+#ar1 {
+    width: 95%;
+    height: 20px;
+    margin-left: 30px;
+    margin-right: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: #0070FF;
+    font-family: "SignikaNegative VariableFont wght";
+    font-size: 45px;
+    float: left;
+    font-weight: bold;
+    margin-top: 10px;
+    background-repeat: no-repeat;
+    font-style: normal;
+
+
+	
+}
+#arti1 {
+    width: 95%;
+    height: 20px;
+    margin-left: 30px;
+    float: left;
+    font-family: "SignikaNegative VariableFont wght";
+    font-weight: bolder;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 25px;
+    margin-top: 35px;
+}
+
+
+#ar2 {
+    width: 95%;
+    height: 110px;
+    background-color: #0070FF;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-radius: 20px;
+    background-image: url(../imagenes/holaaa.png);
+}
+
+#secconjunto2 {
+    width: 15%;
+    height: 995px;
+    float: right;
+}
+
+#art2 {
+    width: 100%;
+    height: 995px;
+    float: right;
+    background-image: url(../imagenes/banner%201.png);
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+
+.video-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 350px;
+    margin-left: 5%;
+}
+
+.background-square {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70%;
+    height: 360px;
+    background-color: #CF9FFF;
+    z-index: 0;
+    border-radius: 20px;
+    background-image: url(../imagenes/video.png);
+    margin-left: 12%;
+}
+
+video {
+    position: relative;
+    z-index: 1;
+    margin-right: 15%;
+    width: 100%;
+    height: 230px;
+    margin-left: 10%;
+}
+#seconjuntt3 {
+    width: 90%;
+    height: 290px;
+    margin-left: 10px;
+}
+#artiju1 {
+    width: 40%;
+    height: 55px;
+    background-color: #FFDE0B;
+    margin-top: 7%;
+    margin-left: 3%;
+    border-radius: 30px;
+    color: #FFFFFF;
+    font-family: "SignikaNegative VariableFont wght";
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: left;
+    margin-bottom: 3%;
+}
+p   {
+    width: 75%;
+    height: 15px;
+    margin-left: 11%;
+    margin-top: 2%;
+    float: left;
+}
+
+
+#footer1 {
+    width: 100%;
+    height: 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+    color: #FFFFFF;
+    font-family: "SignikaNegative VariableFont wght";
+    font-weight: bold;
+    text-align: center;
+    background-color: #5CADFF;
+}
+
+
+
+
+html {
+  --s: 9px; /* control the size*/
+  --c1: #ffffff;
+  --c2: #ffffff;
+  --c3: #addcff;
+  --c4: #f7befe;
+  
+  --c:,#0000 39%,var(--c1) 40% 93%,#0000 94%;
+  --_s:calc(1.5*var(--s))/calc(4*var(--s)) calc(3*var(--s));
+  background:
+    radial-gradient(calc(1.5*var(--s)) at 37.5%   0%var(--c))
+     calc(-.5*var(--s)) var(--_s),
+    radial-gradient(calc(1.5*var(--s)) at 37.5% 100%var(--c))
+     calc(1.5*var(--s)) var(--_s),
+    radial-gradient(25% calc(50%/3),#0000 96%,var(--c2))
+     0 0/calc(2*var(--s)) calc(3*var(--s)),
+    repeating-conic-gradient(var(--c3) 0 25%,var(--c4) 0 50%)
+     0 0/calc(4*var(--s)) calc(6*var(--s));
+}

@@ -1,0 +1,264 @@
+@font-face {
+	font-family: 'SignikaNegative VariableFont wght';
+	src: url('SignikaNegative-VariableFont_wght.ttf') format('truetype');
+}#Conjuntovideo   {
+    width: 90%;
+    height: 135px;
+    margin-left: 9%;
+    margin-top: 40px;
+    float: left;
+}
+#viart1 {
+    width: 12%;
+    height: 110px;
+    float: left;
+    background-repeat: no-repeat;
+    background-color: #FF0004;
+    margin-right: 5px;
+    background-image: url(../../sitio%202/sitio%202/imagenes/bluey.jpg);
+}
+#viart2 {
+    width: 12%;
+    height: 110px;
+    float: left;
+    background-color: #984748;
+    margin-left: 0px;
+    margin-right: 5px;
+    background-image: url(../../sitio%202/sitio%202/imagenes/sid.jpg);
+}
+#viart3 {
+    width: 12%;
+    height: 110px;
+    background-color: #3F2323;
+    float: left;
+    margin-right: 5px;
+    background-image: url(../../sitio%202/sitio%202/imagenes/docc.jpg);
+}
+#viart4 {
+    width: 12%;
+    height: 110px;
+    background-color: #000000;
+    float: left;
+    margin-right: 5px;
+    background-image: url(../../sitio%202/sitio%202/imagenes/mlp.jpg);
+}
+#viart5 {
+    width: 12%;
+    height: 110px;
+    background-color: #3B1E71;
+    float: left;
+    margin-right: 5px;
+    background-image: url(../../sitio%202/sitio%202/imagenes/hi5.jpg);
+}
+#viart6 {
+    width: 12%;
+    height: 110px;
+    float: left;
+    background-color: #0000D0;
+    margin-right: 5px;
+    background-image: url(../../sitio%202/sitio%202/imagenes/pocoyo.jpg);
+}
+#viart7 {
+    float: left;
+    margin-right: 5px;
+    background-color: #6F737B;
+    width: 12%;
+    height: 110px;
+    background-image: url(../../sitio%202/sitio%202/imagenes/blu.jpg);
+}
+#vinculovideo {
+    width: 100%;
+    height: 50px;
+    margin-top: 180px;
+}
+#imgvideo {
+    width: 40%;
+    height: 45px;
+    background-color: #FFDE0B;
+    font-family: "SignikaNegative VariableFont wght";
+    font-weight: bold;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 30%;
+    border-radius: 15px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+#vixvinculo   {
+    width: 90%;
+    height: 750px;
+    margin-left: 4%;
+    margin-top: 20px;
+}
+#textvix {
+    width: 70%;
+    height: 70px;
+    background-color: #FFDE0B;
+    color: #FFFFFF;
+    font-family: "SignikaNegative VariableFont wght";
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    text-decoration: none;
+    margin-left: 17%;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+#persona1 {
+    width: 100%;
+    height: 190px;
+    margin-top: 10px;
+}
+#textpers {
+    background-color: #FFDE0B;
+    width: 35%;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 32%;
+    float: left;
+    text-align: center;
+    font-family: "SignikaNegative VariableFont wght";
+    font-size: x-large;
+    color: #FFFFFF;
+    border-radius: 10px;
+    min-height: 0px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#textperso {
+    width: 60%;
+    height: 55px;
+    float: left;
+    background-color: #FFDE0B;
+    margin-top: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: "SignikaNegative VariableFont wght";
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
+#personaje1 {
+    float: left;
+    height: 200px;
+    width: 100%;
+    margin-top: 10px;
+}
+#perso1 {
+    width: 20%;
+    height: 150px;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-image: url(../../sitio%202/sitio%202/imagenes/bluey%20per.jpg);
+    border-radius: 10px;
+}
+#person1 {
+    width: 65%;
+    height: 140px;
+    background-color: #72bfed;
+    float: left;
+    font-family: "SignikaNegative VariableFont wght";
+    font-weight: bolder;
+    font-size: large;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    background-image: url(url);
+}
+#personaje2 {
+    width: 100%;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+
+#perso2 {
+    width: 65%;
+    height: 140px;
+    color: #FFFFFF;
+    font-family: "SignikaNegative VariableFont wght";
+    font-weight: bolder;
+    font-size: medium;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: #FF00DB;
+    margin-right: 5%;
+    margin-left: 5%;
+    float: left;
+    text-align: center;
+}
+#person2 {
+    width: 20%;
+    height: 150px;
+    float: left;
+    background-image: url(../../sitio%202/sitio%202/imagenes/dora%20per.jpg);
+    border-radius: 10px;
+}
+#personaje3 {
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+    float: left;
+}
+
+
+#perso3 {
+    float: left;
+    width: 20%;
+    height: 150px;
+    margin-right: 5%;
+    margin-left: 5%;
+    background-image: url(../../sitio%202/sitio%202/imagenes/doc%20per.jpg);
+    border-radius: 10px;
+}
+#person3 {
+    float: left;
+    width: 65%;
+    height: 140px;
+    color: #FFFFFF;
+    font-family: "SignikaNegative VariableFont wght";
+    font-weight: bolder;
+    font-size: medium;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #C17BE1;
+}
+#personaje4 {
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+    float: left;
+}
+
+
+#perso4 {
+    width: 65%;
+    height: 140px;
+    float: left;
+    color: #FFFFFF;
+    font-family: "SignikaNegative VariableFont wght";
+    font-weight: bolder;
+    font-size: large;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: #FF6900;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#person4 {
+    width: 20%;
+    height: 150px;
+    float: left;
+    border-radius: 10px;
+    background-image: url(../../sitio%202/sitio%202/imagenes/kratts%20per.jpg);
+}
